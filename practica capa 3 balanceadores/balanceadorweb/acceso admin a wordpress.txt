@@ -1,0 +1,7 @@
+acceso admin a wordpress
+
+http://192.168.1.112:8001/wp-admin/index.php#wpbody-content
+
+enlace a la pagina personalizada
+
+http://192.168.1.112:8001/?page_id=20
