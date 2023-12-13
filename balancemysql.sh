@@ -8,3 +8,8 @@ sudo apt install -y mariadb-server
 echo "Instalar herramienta para hacer un balanceador en mysql"
 
 sudo apt install -y haproxy
+
+
+echo "quitar la red"
+
+sudo ip route del default

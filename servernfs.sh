@@ -10,3 +10,8 @@ echo "Instalar el motor php fpm"
 sudo apt install -y php-fpm
 
 sudo apt install -y php-mysql
+
+
+echo "quitar la red"
+
+sudo ip route del default
