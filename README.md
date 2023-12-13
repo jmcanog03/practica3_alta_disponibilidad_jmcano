@@ -199,6 +199,6 @@ Este repositorio es para la práctica Instalación de Wordpress en arquitectura 
 
 ## CONCLUSIÓN ##
 
-*La parte mas importante de está práctica son los balanceadores si estos no funcionan nada en la práctica lo hara otra parte mas importante es el servidor nfs con el motor php si los servidores web no se conectan al motor php ni el nfs funciona el servidor dara error 502 tambien montar 4 capas para dar mas seguridad a nuesttra infraestructura.*
+*La parte mas importante de está práctica son los balanceadores si estos no funcionan nada en la práctica lo hara otra parte mas importante es el servidor nfs con el motor php si los servidores web no se conectan al motor php ni el nfs funciona el servidor dara error 502 tambien montar 4 capas para dar mas seguridad a nuestra infraestructura.*
 
 **Practica realizada por José Manuel Cano González**
